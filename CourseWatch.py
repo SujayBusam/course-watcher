@@ -27,8 +27,7 @@ def main():
 	url_data = scrape_url(url, post_data)
 
 	from_addr = 'FordPrefect064@gmail.com'
-	# pwd = raw_input("Enter email password: ")
-	pwd = "barktreehouse"
+	pwd = raw_input("Enter email password: ")
 	to_addr  = 'sujay.busam@gmail.com'
 	phone_addr = '7245701827@mms.att.net'
 
